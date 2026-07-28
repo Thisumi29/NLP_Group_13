@@ -1,1 +1,9 @@
+__pycache__/
+*.pyc
 
+Load_the_data1_backup.py
+src_old
+
+dataa/raw/
+dataa/processed/
+saved_models/
