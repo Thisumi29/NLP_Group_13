@@ -1,1 +1,3 @@
-
+venv/
+dataa/raw/*.csv
+dataa/processed_data.csv
