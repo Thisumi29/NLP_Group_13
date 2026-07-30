@@ -1,1 +1,3 @@
-
+dataa/raw/*.csv
+dataa/processed/*.csv
+Models/tfidf_train_test_split.pkl
