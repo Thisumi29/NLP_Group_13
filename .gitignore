@@ -7,3 +7,7 @@ src_old
 dataa/raw/
 dataa/processed/
 saved_models/
+
+venv/
+dataa/raw/*.csv
+dataa/processed_data.csv
